@@ -1,0 +1,28 @@
+<visicutPreferences>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <labName>Heidelberg Makerspace</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <windowBounds>
+    <x>0</x>
+    <y>23</y>
+    <width>1440</width>
+    <height>854</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+  </recentFiles>
+  <lastMaterial>MDF</lastMaterial>
+  <lastLaserDevice>Epilog Legend 36 EXT</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <fabLabLocationFacebookId></fabLabLocationFacebookId>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
+</visicutPreferences>
