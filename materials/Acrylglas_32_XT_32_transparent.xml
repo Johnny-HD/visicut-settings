@@ -1,0 +1,10 @@
+<material>
+  <description>Transparent extruded PMMA ; also known Plexiglas</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>Acrylglas XT transparent</name>
+  <materialThicknesses>
+    <float>2.0</float>
+  </materialThicknesses>
+</material>
