@@ -3,8 +3,8 @@
   <engraveColor>#3333ff</engraveColor>
   <cutColor>#ff0000</cutColor>
   <color>#ffffff</color>
-  <name>Maring Spray</name>
+  <name>Marking Spray</name>
   <materialThicknesses>
-    <string>any</string>
+    <float>1.0</float> 
   </materialThicknesses>
 </material>
