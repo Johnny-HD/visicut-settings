@@ -1,0 +1,10 @@
+<material>
+  <description>An aluminium Apple device</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffffff</color>
+  <name>Apple Product</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>
