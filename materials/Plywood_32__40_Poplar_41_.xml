@@ -1,0 +1,10 @@
+<material>
+  <description>Plywood (Sperrholz) made from poplar trees…</description>
+  <engraveColor>#0000ff</engraveColor>
+  <cutColor>#ff0033</cutColor>
+  <color>#ffffff</color>
+  <name>Plywood (Poplar)</name>
+  <materialThicknesses>
+    <float>4.0</float>
+  </materialThicknesses>
+</material>
