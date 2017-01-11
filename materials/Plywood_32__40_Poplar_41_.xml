@@ -6,5 +6,6 @@
   <name>Plywood (Poplar)</name>
   <materialThicknesses>
     <float>4.0</float>
+    <float>6.0</float>
   </materialThicknesses>
 </material>
