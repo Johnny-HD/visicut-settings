@@ -1,5 +1,5 @@
 <vectorProfile>
-  <DPI>500.0</DPI>
+  <DPI>400.0</DPI>
   <description>Engrave along lines</description>
   <name>mark</name>
   <orderStrategy>NEAREST</orderStrategy>

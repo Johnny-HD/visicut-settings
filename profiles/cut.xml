@@ -1,5 +1,5 @@
 <vectorProfile>
-  <DPI>500.0</DPI>
+  <DPI>400.0</DPI>
   <description>Cut through the material</description>
   <name>cut</name>
   <orderStrategy>INNER_FIRST</orderStrategy>
